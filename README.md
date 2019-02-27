@@ -10,4 +10,4 @@
 5. Concurrency: Dining Philosophers Problem
 6. OO: Animals
 7. Design Patterns: Decorable Tree, Person
-8. Functional: Lesson 1, Lesson 2, LEsson 3, Levenshtein
+8. Functional: Lesson 1, Lesson 2, Lesson 3, Levenshtein
